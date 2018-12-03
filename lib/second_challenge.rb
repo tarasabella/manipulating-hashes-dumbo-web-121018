@@ -10,6 +10,7 @@ def second_challenge
 
   groceries.values.flatten
   
+  # values collects all values in a hash & returns an array pf the value keys 
 
 end
   
